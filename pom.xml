@@ -85,7 +85,7 @@
 		<repository>
 			<id>junit5-webdriver</id>
 			<name>junit5-webdriver</name>
-			<url>file://https://bitbucket.org/evgenysh/junit5-webdriver-tests/downloads/</url>
+			<url>https://bitbucket.org/evgenysh/junit5-webdriver-tests/downloads/</url>
 		</repository>
 	</repositories>
 	

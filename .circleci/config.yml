@@ -22,7 +22,9 @@ jobs:
     
     steps:
       - checkout
-    
+      - run:
+          name: Download test-framework
+          command: curl -O https://bitbucket.org/evgenysh/junit5-webdriver-tests/downloads/junit5-webdriver.jar
       # Download and cache dependencies
       - restore_cache:
           keys:

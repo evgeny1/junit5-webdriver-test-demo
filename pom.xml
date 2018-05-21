@@ -80,15 +80,7 @@
 			</plugin>
 		</plugins>
 	</reporting>
-	
-	<repositories>
-		<repository>
-			<id>junit5-webdriver</id>
-			<name>junit5-webdriver</name>
-			<url>https://bitbucket.org/evgenysh/junit5-webdriver-tests/downloads/</url>
-		</repository>
-	</repositories>
-	
+
 	<dependencies>
 		<dependency>
 			<groupId>com.company</groupId>
